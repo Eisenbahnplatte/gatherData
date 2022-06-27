@@ -1,0 +1,14 @@
+[33m3[39m
+http://www.wikidata.org/entity/Q64
+application/rdf+xml; charset=UTF-8
+[36m[Function: list][39m
+[33m4[39m
+http://es.dbpedia.org/resource/Berlín
+application/n-triples; charset=UTF-8
+[36m[Function: list][39m
+[33m5[39m
+http://ru.dbpedia.org/resource/Берлин
+[36m[Function: list][39m
+---data loaded---
+Failed to load  <http://es.dbpedia.org/resource/Berlín> Fetcher: <http://es.dbpedia.org/resource/Berlín> Not found
+Oops, something happened and couldn't fetch data Failed to load  <http://es.dbpedia.org/resource/Berlín> Fetcher: <http://es.dbpedia.org/resource/Berlín> Not found status: 404
